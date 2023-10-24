@@ -1,0 +1,280 @@
+.slide-16-9-3,
+.slide-16-9-3 * {
+  box-sizing: border-box;
+}
+.slide-16-9-3 {
+  background: #ffffff;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(54, 28, 22, 1) 13.54166716337204%,
+    rgba(255, 239, 221, 1) 100%
+  );
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.nav-1 {
+  background: #361c16;
+  padding: 24px 22px 24px 22px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1991px;
+  height: 65px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.home {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hist-ria {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.eventos {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lojas {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contato {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sobre-n-s {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-6 {
+  background: #ffefdd;
+  padding: 0px 45px 0px 45px;
+  display: flex;
+  flex-direction: row;
+  gap: 85px;
+  align-items: center;
+  justify-content: center;
+  width: 1920px;
+  height: 129px;
+  position: absolute;
+  left: 0px;
+  top: 65px;
+}
+.logo-1 {
+  flex-shrink: 0;
+  width: 238.03px;
+  height: 130.51px;
+  position: relative;
+}
+.gourmet {
+  color: #361c16;
+  text-align: left;
+  font: 400 32px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.expresso {
+  color: #361c16;
+  text-align: left;
+  font: 400 32px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.presentes {
+  color: #361c16;
+  text-align: left;
+  font: 400 32px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gift-card {
+  color: #361c16;
+  text-align: left;
+  font: 400 32px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.novidades {
+  color: #ad412f;
+  text-align: left;
+  font: 400 32px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lupa-1 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 39px;
+  position: relative;
+}
+.perfil {
+  flex-shrink: 0;
+  width: 35px;
+  height: 39px;
+  position: relative;
+}
+.favoritos {
+  flex-shrink: 0;
+  width: 42px;
+  height: 39px;
+  position: relative;
+}
+.sacola {
+  flex-shrink: 0;
+  width: 36px;
+  height: 39px;
+  position: relative;
+}
+.frame-7 {
+  background: #ffefdd;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1920px;
+  height: 72px;
+  position: absolute;
+  left: 0px;
+  top: 194px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.line-1 {
+  border-style: solid;
+  border-color: #361c16;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 1867.06px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.desde-2023-oferecendo-o-melhor-caf-ao-universit-rio {
+  color: #361c16;
+  text-align: left;
+  font: 400 32px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-18 {
+  border-radius: 23px;
+  padding: 80px 100px 80px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 92px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 688px;
+  height: 799px;
+  position: absolute;
+  left: 0px;
+  top: 281px;
+}
+.fa-a-uma-reserva {
+  color: #ffffff;
+  text-align: left;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  width: 562px;
+  height: 135px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.telefone-1 {
+  background: linear-gradient(
+    0deg,
+    rgba(54, 28, 22, 0.5) 0%,
+    rgba(255, 239, 221, 0.5) 100%
+  );
+  border-radius: 115px;
+  flex-shrink: 0;
+  width: 510px;
+  height: 383px;
+  position: absolute;
+  left: 89px;
+  top: 690px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.frame-19 {
+  border-radius: 23px;
+  padding: 80px 100px 80px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 92px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 688px;
+  height: 799px;
+  position: absolute;
+  left: 688px;
+  top: 281px;
+}
+.nossos-meios-de-contato-telefone-24-2424-2424-email-unicaf-coffee-com {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inika", sans-serif;
+  position: relative;
+  width: 562px;
+  height: 408px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

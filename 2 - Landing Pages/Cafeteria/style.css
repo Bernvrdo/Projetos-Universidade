@@ -1,0 +1,529 @@
+@font-face {
+    font-family: 'Inika',; /*a name to be used later*/
+    src:url(https://fonts.google.com/specimen/Inika)/*URL to font*/
+}
+
+
+
+
+.nav-1,
+.nav-1 * {
+  box-sizing: border-box;
+}
+.nav-1 {
+  background: #361c16;
+  padding: 24px 22px 24px 22px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  min-width:auto;
+  position: relative;
+  overflow: hidden;
+  height: 30px;
+}
+.home {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.história {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.eventos {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lojas {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contato {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.sobre-nos {
+  color: #ffefdd;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+
+
+.nav-22,
+.nav-22 * {
+  box-sizing: content-box;
+  flex: auto;
+  justify-content: space-between;
+}
+.nav-2 {
+  background: #ffefdd;
+  padding: 0px 45px 0px 45px;
+  display:flex;
+  flex-direction: row;
+  gap: 5%;
+  align-items: center;
+  justify-content:space-between;
+  min-width: auto;
+  overflow: hidden;
+  max-width: 100%;
+  height: 15%;
+  position: relative;
+}
+.logo {
+  flex-shrink: 0;
+  width: 10%;
+  height: 10%;
+  position: relative;
+}
+
+.menuitem {
+    color: #361c16;
+    text-align: left;
+    font: 400 140% "Inika", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    word-break: keep-all;
+    resize: horizontal;
+}
+
+.novidadesmenu {
+    color: #ad412f;
+    text-align: left;
+    font: 400 140% "Inika", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.lupa-1 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 39px;
+  position: relative;
+}
+.perfil {
+  flex-shrink: 0;
+  width: 35px;
+  height: 39px;
+  position: relative;
+}
+.favoritos {
+  flex-shrink: 0;
+  width: 42px;
+  height: 39px;
+  position: relative;
+}
+.sacola {
+  flex-shrink: 0;
+  width: 36px;
+  height: 39px;
+  position: relative;
+}
+
+.navbottom,
+.navbottom * {
+  box-sizing: border-box;
+}
+.navbottom {
+  background: #ffefdd;
+  display: flex;
+  flex-direction: column;
+  gap: 50%;
+  align-items: center;
+  align-content:center;
+  justify-content: flex-start;
+  min-width: auto;
+  height: 20%;
+  position: relative;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.line-1 {
+  border-style: solid;
+  border-color: #361c16;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 55%;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.slogan {
+  color: #361c16;
+  text-align: left;
+  font: 400 150% "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+.frame-17,
+.frame-17 * {
+  box-sizing: border-box;
+  justify-content: end;
+  align-content: flex-end;
+  align-items: stretch;
+}
+.frame-17 {
+  display: inline-flex;
+  flex-direction: row;
+  align-items:stretch;
+  align-content:left;
+  justify-content:space-evenly  ;
+  justify-items:left  ;
+   width: 100%;
+  height: 814px;
+  position: relative;
+  row-gap: 0px;
+}
+.frame-16 {
+  padding: 120px 0px 120px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  justify-self: stretch;
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: relative;
+}
+.box-gourmet {
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.gourmet {
+  color: #dc9440;
+  text-align: center;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-2 {
+  flex-shrink: 0;
+  width: 120px;
+  height: 17px;
+  position: relative;
+}
+.descgourmet {
+  color: #ffefdd;
+  text-align: center;
+  font: 700 20px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-15 {
+  padding: 120px 10px 120px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: relative;
+}
+.box-expresso {
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: absolute;
+  justify-self: center;
+  left: 0px;
+  top: 0px;
+}
+.expresso {
+  color: #dc9440;
+  text-align: center;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.descexpresso {
+  color: #ffefdd;
+  text-align: center;
+  font: 700 20px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-14 {
+  padding: 120px 10px 120px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: relative;
+}
+.box-novidades {
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.novidades {
+  color: #dc9440;
+  text-align: center;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.descnovidades {
+  color: #ffefdd;
+  text-align: center;
+  font: 700 20px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.frame-17,
+.frame-17 * {
+  box-sizing: border-box;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1920px;
+  position: relative;
+}
+.frame-16 {
+  padding: 120px 10px 120px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.box-gourmet {
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.gourmet {
+  color: #dc9440;
+  text-align: center;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-2 {
+  flex-shrink: 0;
+  width: 120px;
+  height: 17px;
+  position: relative;
+}
+.descgourmet {
+  color: #ffefdd;
+  text-align: center;
+  font: 700 20px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-15 {
+  padding: 120px 10px 120px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.box-expresso {
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.expresso {
+  color: #dc9440;
+  text-align: center;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.descexpresso {
+  color: #ffefdd;
+  text-align: center;
+  font: 700 20px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-14 {
+  padding: 120px 10px 120px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.box-novidades {
+  flex-shrink: 0;
+  width: 640px;
+  height: 814px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.novidades {
+  color: #dc9440;
+  text-align: center;
+  font: 700 64px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.descnovidades {
+  color: #ffefdd;
+  text-align: center;
+  font: 700 20px "Inika", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.frame-17,
+.frame-17 * {
+  box-sizing: border-box;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+.frame-17,
+.frame-17 * {
+  box-sizing: border-box;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  max-width: 1920px;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
